@@ -1,0 +1,87 @@
+/*body*/
+body{
+  background-color:#c24914;
+  text-align: center;
+  font-family: 'JetBrains Mono', monospace;
+
+}
+
+/*navbar*/
+.navbar {
+  padding: 0 0 4.5rem;
+}
+
+.navbar-brand {
+  font-family: "Ubuntu";
+  font-size: 2rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 18px;
+}
+
+/*titlesection*/
+.firstimg{
+  width:90%;
+}
+/*features section*/
+.container-fluid{
+  padding: 7% 15%;
+margin-top: 200px;
+}
+.img1 .img2 .img3{
+  width: 25%;
+}
+
+/*carousel section*/
+  /*#testimonial-carousel{
+  background-color:#ef8172;
+}
+.carousel-item{
+  font-size:3.5rem;
+  line-height:1.5;
+}*/
+/*#testimonials {
+  background-color: #ef8172;
+}*/
+
+.testimonial-text {
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.testimonial-image {
+  width: 10%;
+  border-radius: 100%;
+  margin: 20px;
+}
+
+
+/*pricing section*/
+
+#Pricing{
+  margin-top:280px;
+}
+.pricing-text{
+  line-height:1.5;
+  font-family:'JetBrains Mono', monospace;
+  font-size: 3rem;
+  text-align: center;
+  color:#00ff00;
+}
+.pricing-text1{
+  line-height: 1;
+  font-size: 2.5rem;
+
+}
+
+h3{
+  font-size: 3rem;
+}
+
+/*contact-me*/
+#contact-me{
+  font-size: 3rem;
+  background-color: #8ad7c1;
+}
